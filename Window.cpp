@@ -1,4 +1,3 @@
-// Created by Muhammad Shahsawar.
 // Company: Munammad Technology.
 
 // Including the header files.

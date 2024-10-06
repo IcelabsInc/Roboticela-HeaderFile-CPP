@@ -1,5 +1,5 @@
 // Author: Muhammad Shahsawar.
-// Company: Muhammad Technology.
+// Company: Icelabs Inc.
 
 #pragma once
 

@@ -1,5 +1,5 @@
 // Author: Muhammad Shahsawar Khan
-// Company: Muhammad Technology
+// Company: Icelabs Inc
 
 // Including some important header files.
 #include "Math.h"

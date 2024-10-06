@@ -1,5 +1,4 @@
-// Created by Muhammad shahsawar.
-// Company: Muhammad Technology.
+// Company: Icelabs Inc.
 
 #pragma once
 

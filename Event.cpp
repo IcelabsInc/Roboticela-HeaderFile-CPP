@@ -1,5 +1,4 @@
-// Created by Muhammad Shahsawar.
-// Company: Muhammad Technology.
+// Company: Icelabs Inc.
 
 // Including some important header files.
 #include "Event.h"

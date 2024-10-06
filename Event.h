@@ -1,4 +1,3 @@
-// Created by Muhammad Shahsawar.
 // Company: Muhamamd Technology.
 
 #pragma once
