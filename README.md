@@ -2,6 +2,14 @@
 
 **Roboticela** is a powerful, cross-platform C++ library designed to simplify GUI development, mathematical computations, and physics-related tasks. Whether you're building applications with complex UIs or working on physics simulations, Roboticela provides the tools you need for a smooth and efficient development experience.
 
+## Prerequisites ⚙️
+
+Before you begin, ensure you have the following installed:
+
+- **C++ Compiler**: Make sure you have a C++ compiler installed, such as MinGW for Windows or g++ for Linux/macOS.
+- **Windows SDK**: Ensure you have the Windows SDK installed if you're developing for Windows.
+
+
 ## Features 🌟
 
 - **GUI Development 🖼️**: Easy-to-use classes for creating cross-platform graphical user interfaces.
