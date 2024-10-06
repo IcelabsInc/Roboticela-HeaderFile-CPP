@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64\vcvars64.bat" && "C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64\cl.exe" /LD /EHsc /Fe:Build-Data\Window.dll /Fo:Build-Data/Window.obj /DBUILD_DLL /DASCII "Window.cpp"
